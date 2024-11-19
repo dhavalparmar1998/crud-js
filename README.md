@@ -1,2 +1,2 @@
 # crud-js
-I have made CRUD opeartion project using Javascript
+I have made CRUD operation project using Javascript
